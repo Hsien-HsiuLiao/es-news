@@ -13,9 +13,9 @@ git push -u origin main
 
 subsequent files:
 
-git add <filename>
+git add >filename<
 
-git commit -m "<comment>"
+git commit -m ">comment<"
 
 git push -u origin main
 
